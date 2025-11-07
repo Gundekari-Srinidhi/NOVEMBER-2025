@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Gundekari-Srinidhi/NOVEMBER-2025/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gundekari-Srinidhi/NOVEMBER-2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Gundekari-Srinidhi/NOVEMBER-2025/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Gundekari-Srinidhi/NOVEMBER-2025/tree/master/0908-middle-of-the-linked-list) |
@@ -24,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Gundekari-Srinidhi/NOVEMBER-2025/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Gundekari-Srinidhi/NOVEMBER-2025/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
